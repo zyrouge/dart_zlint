@@ -5,7 +5,7 @@
 ## Installation
 
 ```yaml
-dependencies:
+dev_dependencies:
     zlint:
         git:
             url: git://github.com/zyrouge/dart_zlint.git
