@@ -1,5 +1,3 @@
-<br />
-
 # ZLint
 
 ✨ Personally preferred dart `analysis_options.yaml`!
