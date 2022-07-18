@@ -4,9 +4,11 @@ packages:
   lint:
     dependency: "direct main"
     description:
-      name: lint
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.8.2"
+      path: "."
+      ref: master
+      resolved-ref: b5da48d51dda2c17ea93761d08b0c064e30c43d6
+      url: "https://github.com/zyrouge/dart-lint.git"
+    source: git
+    version: "1.9.0"
 sdks:
-  dart: ">=2.15.0-7.0.dev <3.0.0"
+  dart: ">=2.16.0-44.0.dev <3.0.0"
