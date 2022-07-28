@@ -18,7 +18,6 @@ linter:
         sort_child_properties_last: true
         sort_constructors_first: true
         always_put_required_named_parameters_first: true
-        prefer_relative_imports: true
         prefer_expression_function_bodies: true
         unnecessary_await_in_return: true
         unnecessary_null_checks: true
