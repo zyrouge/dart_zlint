@@ -8,8 +8,4 @@ environment:
     sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-    # NOTE: Update this later
-    lint:
-        git:
-            url: https://github.com/zyrouge/dart-lint.git
-            ref: master
+    lint: ^1.10.0
