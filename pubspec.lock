@@ -4,11 +4,10 @@ packages:
   lint:
     dependency: "direct main"
     description:
-      path: "."
-      ref: master
-      resolved-ref: b5da48d51dda2c17ea93761d08b0c064e30c43d6
-      url: "https://github.com/zyrouge/dart-lint.git"
-    source: git
-    version: "1.9.0"
+      name: lint
+      sha256: "3e9343b1cededcfb1e8b40d0dbd3592b7a1c6c0121545663a991433390c2bc97"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
 sdks:
-  dart: ">=2.16.0-44.0.dev <3.0.0"
+  dart: ">=2.18.0 <4.0.0"
