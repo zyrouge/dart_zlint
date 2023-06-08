@@ -3,9 +3,9 @@
   "packages": [
     {
       "name": "lint",
-      "rootUri": "file:///home/zyrouge/.pub-cache/hosted/pub.dev/lint-2.0.1",
+      "rootUri": "file:///home/zyrouge/.pub-cache/hosted/pub.dev/lint-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "zlint",
@@ -14,7 +14,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-01-14T17:54:25.196712Z",
+  "generated": "2023-06-08T06:22:43.729802Z",
   "generator": "pub",
-  "generatorVersion": "2.19.0-444.1.beta"
+  "generatorVersion": "3.1.0-63.1.beta"
 }
