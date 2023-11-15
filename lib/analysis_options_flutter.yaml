@@ -4,6 +4,6 @@ linter:
     rules:
         use_key_in_widget_constructors: true
         use_build_context_synchronously: true
-        prefer_relative_imports: true
+        prefer_relative_imports: false
         always_use_package_imports: true
         avoid_relative_lib_imports: true
